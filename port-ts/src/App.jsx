@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Perfil from './Perfil/Perfil';
 
 function App() {
   return (
     <div className="App">
-     <h1>Enzo Acosta</h1>
-     <h2>Full-stack Developer Jr</h2>
+      <Perfil />
     </div>
   );
 }
